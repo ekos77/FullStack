@@ -1,4 +1,6 @@
 # Sistema de Interoperabilidad Vecinal 🌐
+![Texto alternativo](Municipalidad_Vecinal.png)
+
 
 **Descripción:**
 Este sistema informático web está diseñado para facilitar la interoperabilidad y mejorar la comunicación entre los vecinos y las municipalidades. Permite a los presidentes de cada junta vecinal y sus secretarios interactuar de manera eficiente con las autoridades locales, agilizando la resolución de problemas, consultas y solicitudes a través de una plataforma accesible y moderna.
