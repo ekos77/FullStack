@@ -27,4 +27,4 @@ Este sistema informático web está diseñado para facilitar la interoperabilida
 Las contribuciones son bienvenidas. Si deseas colaborar de cualquier forma ponte en contacto conmigo
 
 ## Contacto
-Para más información o consultas, puedes contactarme a través de [tu correo electrónico](mailto:seguel.claudio.a@gmail.com).
+Para más información o consultas, puedes contactarme a través de [seguel.claudio.a@gmail.com](mailto:seguel.claudio.a@gmail.com).
