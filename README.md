@@ -13,6 +13,14 @@ Este sistema informático web está diseñado para facilitar la interoperabilida
 - **Pago de contribuciones y otros**: Todos los ciudadanos podran pagar, partes, permisos patentes de forma onlinea.
 
 ### Tecnologías Utilizadas
+
+| Caracteristica | Detalles |
+| --------- | --------- |
+| Integracion Biblioteca Publica    | Facilita el acceso a la literatura publica.    |
+| Agenda Medica    | Menores de edad y mayores de edad podran solicitar reservar hrs medicas por medios online.    |
+| Agenda departamento del transito    | Al igual que la agenda medica, todos los usuarios pueden reservar previamente atencion para dichos servicios proporcionados por este establecimiento publico.    |
+| Pago de contribuciones y otros    | Todos los ciudadanos podran pagar, partes, permisos patentes de forma onlinea.    |
+
 - [Bootstrap](https://getbootstrap.com/)
 - [HTML5](https://html5.org/)
 - [CSS3](https://www.w3.org/Style/CSS/)
