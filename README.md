@@ -6,15 +6,12 @@
 **Descripción:**
 Este sistema informático web está diseñado para facilitar la interoperabilidad y mejorar la comunicación entre los vecinos y las municipalidades.
 
-### Características Principales
-- **Administracion de cuentas de usuarios**: Un unico administrador puede gestionar las cuentas.
-- **Menu dinamicos**: Mediante un sistema inteligente se administran los perfiles y acceso al sistema.
-- **Registro de actividades**: Para efectos de auditorias de seguridad se lleva a cabo todo un sistema de registros de actividades por cada usuarios
-- **Otros**: Seguimientos de proyectos, datos de estadisticas, entre otros, son algunos de los servicios que proporciona el sistema.
+### Beneficios
+- **Escalable**: Es posible con minimo esfuerzo la ampliacion de los servicios mediante programaciones menores.
+- **Integral**: Permite al integracion con otros servicios mediantes API JSON de entrada y salida.
+- **Agíl**: El sistema funcional minimisa el error de tipeo y humsno y ademas agilizas procesos burocraticos tanto para la comunidad administrativa como la de los vecinos.
  
 ### Características Principales
-|SIMU|||
-|Sistema Informatico Municipal|||
 |N°| Caracteristica | Detalles |
 |--------- | --------- | --------- |
 | | Integracion Biblioteca Publica    | Facilita el acceso a la literatura publica.    |
@@ -23,7 +20,6 @@ Este sistema informático web está diseñado para facilitar la interoperabilida
 | | Pago de contribuciones y otros    | Todos los ciudadanos podran pagar, partes, permisos patentes de forma onlinea.    |
 
 ### Otras Características
-|Sistema Informatico Municipal|
 |N°| Caracteristica | Detalles |
 |--------- | --------- | --------- |
 | | Administracion de cuentas de usuarios    | Un unico administrador puede gestionar las cuentas.    |
