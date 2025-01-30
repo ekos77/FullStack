@@ -13,8 +13,8 @@ Este sistema informático web está diseñado para facilitar la interoperabilida
 - **Otros**: Seguimientos de proyectos, datos de estadisticas, entre otros, son algunos de los servicios que proporciona el sistema.
  
 ### Características Principales
-|SIMU|
-|Sistema Informatico Municipal|
+|SIMU|||
+|Sistema Informatico Municipal|||
 |N°| Caracteristica | Detalles |
 |--------- | --------- | --------- |
 | | Integracion Biblioteca Publica    | Facilita el acceso a la literatura publica.    |
