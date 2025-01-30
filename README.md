@@ -8,7 +8,7 @@ Este sistema informático web está diseñado para facilitar la interoperabilida
 ## Características Principales
 - **Integracion Biblioteca Publica**: Facilita el acceso a la literatura publica.
 - **Agenda Medica**: Menores de edad y mayores de edad podran solicitar reservar hrs medicas por medios online.
-- **Agenda departamento del transito**: Al igual que la agenda medica, todos los usuarios pueden reservar previamente atencion para dichos servicios proporcionados por este establecimiento publico
+- **Agenda departamento del transito**: Al igual que la agenda medica, todos los usuarios pueden reservar previamente atencion para dichos servicios proporcionados por este establecimiento publico.
 - **Pago de contribuciones y otros**: Todos los ciudadanos podran pagar, partes, permisos patentes de forma onlinea.
 
 ## Tecnologías Utilizadas
@@ -20,7 +20,8 @@ Este sistema informático web está diseñado para facilitar la interoperabilida
 - [Base de Datos MySQL](https://www.mysql.com/)
 
 ## Cómo Empezar
-1. Este repositorio es privado de momento
+1. Este repositorio es privado de momento.
+2. Si necesitas el proyecto debes hablarlo por privado.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar de cualquier forma ponte en contacto conmigo
