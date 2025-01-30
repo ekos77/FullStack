@@ -3,14 +3,13 @@
 
 
 **Descripción:**
-Este sistema informático web está diseñado para facilitar la interoperabilidad y mejorar la comunicación entre los vecinos y las municipalidades. Permite a los presidentes de cada junta vecinal y sus secretarios interactuar de manera eficiente con las autoridades locales, agilizando la resolución de problemas, consultas y solicitudes a través de una plataforma accesible y moderna.
+Este sistema informático web está diseñado para facilitar la interoperabilidad y mejorar la comunicación entre los vecinos y las municipalidades.
 
 ## Características Principales
-- **Interacción Eficiente**: Facilita la comunicación directa entre los líderes vecinales y las autoridades locales.
-- **Resolución Rápida**: Acelera el proceso de resolución de problemas y consultas.
-- **Interfaz Moderna**: Diseño intuitivo y accesible, basado en Bootstrap.
-- **Compatibilidad con Clave Única**: Permite una identificación segura de los usuarios.
-- **Intercambio de Archivos**: Soporta la carga y gestión de documentos necesarios para la comunicación con las municipalidades.
+- **Integracion Biblioteca Publica**: Facilita el acceso a la literatura publica.
+- **Agenda Medica**: Menores de edad y mayores de edad podran solicitar reservar hrs medicas por medios online.
+- **Agenda departamento del transito**: Al igual que la agenda medica, todos los usuarios pueden reservar previamente atencion para dichos servicios proporcionados por este establecimiento publico
+- **Pago de contribuciones y otros**: Todos los ciudadanos podran pagar, partes, permisos patentes de forma onlinea.
 
 ## Tecnologías Utilizadas
 - [Bootstrap](https://getbootstrap.com/)
