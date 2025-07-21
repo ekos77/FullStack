@@ -1,46 +1,26 @@
-# SIMU 🌐
-## Sistema Informatico Municipal
-![Texto alternativo](Municipalidad_Vecinal.png)
+# Mis Tecnologías 🌐
+## Full Stack
 
 
 **Descripción:**
-Este sistema informático web está diseñado para facilitar la interoperabilidad y mejorar la comunicación entre los vecinos y las municipalidades.
-
-### Beneficios
-- **Escalable**: Es posible con minimo esfuerzo la ampliacion de los servicios mediante programaciones menores.
-- **Integral**: Permite al integracion con otros servicios mediantes API JSON de entrada y salida.
-- **Agíl**: El sistema funcional minimisa el error de tipeo y humsno y ademas agilizas procesos burocraticos tanto para la comunidad administrativa como la de los vecinos.
+A lo largo de mi carrera, me he desempeñado principalmente en la integración entre el usuario y el uso de tecnologías inteligentes. A continuación, presento algunas de las soluciones que he desarrollado:
  
-### Características Principales
-|N°| Caracteristica | Detalles |
-|--------- | --------- | --------- |
-| | Integracion Biblioteca Publica    | Facilita el acceso a la literatura publica.    |
-| | Agenda Medica    | Menores de edad y mayores de edad podran solicitar reservar hrs medicas por medios online.    |
-| | Agenda departamento del transito    | Al igual que la agenda medica, todos los usuarios pueden reservar previamente atencion para dichos servicios proporcionados por este establecimiento publico.    |
-| | Pago de contribuciones y otros    | Todos los ciudadanos podran pagar, partes, permisos patentes de forma onlinea.    |
+### Aplicaciones Disponibles
+|N°| Caracteristica | Detalles | | 
+|--------- | --------- | --------- | --------- |
+| | Integración con Biblioteca Pública | Facilita el acceso a literatura pública de manera sencilla y rápida. | |
+| | Reserva de Horas en Zonas Rurales | Permite a menores y mayores de edad reservar horas médicas en línea o mediante tótems, evitando filas. | ✨ |
+| | Sistema de Rastreo GPS Vehicular | Seguimiento en tiempo real de vehículos u otros elementos móviles. | |
+| | Vecinos Municipales | Plataforma para que los ciudadanos puedan comunicarse directamente con su municipio y acceder a sus servicios. | ✨ |
 
-### Otras Características
-|N°| Caracteristica | Detalles |
-|--------- | --------- | --------- |
-| | Administracion de cuentas de usuarios    | Un unico administrador puede gestionar las cuentas.    |
-| | Menu dinamicos   | Mediante un sistema inteligente se administran los perfiles y acceso al sistema.    |
-| | Registro de actividades    | Para efectos de auditorias de seguridad se lleva a cabo todo un sistema de registros de actividades por cada usuarios    |
-| | Otros   | Seguimientos de proyectos, datos de estadisticas, entre otros, son algunos de los servicios que proporciona el sistema.    | 
 
-### Tecnologías Utilizadas
+
+### Mis conocimientos
 - [Bootstrap](https://getbootstrap.com/)
 - [HTML5](https://html5.org/)
 - [CSS3](https://www.w3.org/Style/CSS/)
 - [JavaScript](https://www.javascript.com/)
 - [PHP](https://www.php.net/)
 - [Base de Datos MySQL](https://www.mysql.com/)
-
-### Cómo Empezar
-1. Este repositorio es privado de momento.
-2. Si necesitas el proyecto debes hablarlo por privado.
-
-### Contribuciones
-Las contribuciones son bienvenidas. Si deseas colaborar de cualquier forma ponte en contacto conmigo
-
-### Contacto
+- 
 Para más información o consultas, puedes contactarme a través de [seguel.claudio.a@gmail.com](mailto:seguel.claudio.a@gmail.com).
