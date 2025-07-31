@@ -12,6 +12,7 @@ A lo largo de mi carrera, me he desempeñado principalmente en la integración e
 | | Reserva de Horas en Zonas Rurales | Permite a menores y mayores de edad reservar horas médicas en línea o mediante tótems, evitando filas. | ✨ |
 | | Sistema de Rastreo GPS Vehicular | Seguimiento en tiempo real de vehículos u otros elementos móviles. | |
 | | Vecinos Municipales | Plataforma para que los ciudadanos puedan comunicarse directamente con su municipio y acceder a sus servicios. | ✨ |
+| | IPAE, Decomisos entre otros | Plataformas para el sector publico | ✨ |
 
 
 
