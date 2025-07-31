@@ -14,7 +14,7 @@ Soy Ingeniero Informático con sólida experiencia en investigación y análisis
 | | Vecinos Municipales | Plataforma para que los ciudadanos puedan comunicarse directamente con su municipio y acceder a sus servicios. | ✨ |
 | | IPAE, Decomisos entre otros | Plataformas para el sector publico | ✨ |
 
-### Aplicaciones Disponibles
+### Tecnologias que Domino
 
 * Python
 * PHP
