@@ -3,7 +3,7 @@
 
 
 **Descripción:**
-A lo largo de mi carrera, me he desempeñado principalmente en la integración entre el usuario y el uso de tecnologías inteligentes. A continuación, presento algunas de las soluciones que he desarrollado:
+Soy Ingeniero Informático con sólida experiencia en investigación y análisis de datos, así como en el desarrollo de sistemas y dashboards interactivos. Me especializo en tareas que combinan análisis técnico con el diseño e implementación de soluciones informáticas. A continuación, presento algunas de las soluciones que he desarrollado:
  
 ### Aplicaciones Disponibles
 |N°| Caracteristica | Detalles | | 
@@ -14,7 +14,14 @@ A lo largo de mi carrera, me he desempeñado principalmente en la integración e
 | | Vecinos Municipales | Plataforma para que los ciudadanos puedan comunicarse directamente con su municipio y acceder a sus servicios. | ✨ |
 | | IPAE, Decomisos entre otros | Plataformas para el sector publico | ✨ |
 
+### Aplicaciones Disponibles
 
+* Python
+* PHP
+* Go
+* JS
+* Boostrap Bulma
+* Otros (Panda, R, CharJS, etc)
 
 ### Mis conocimientos
 - [Bootstrap](https://getbootstrap.com/)
